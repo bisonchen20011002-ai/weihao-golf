@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bisonchen20011002-ai.github.io/weihao-golf/sitemap.xml
